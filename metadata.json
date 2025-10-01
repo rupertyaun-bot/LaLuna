@@ -1,0 +1,5 @@
+{
+  "name": "La Luna POS, Inventory & Work tracking system",
+  "description": "This app is a POS that allows you to track your inventory, and your labour costs.",
+  "requestFramePermissions": []
+}
